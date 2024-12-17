@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/kk2000nails/static/css/main.de13e7c8.css",
+    "main.js": "/kk2000nails/static/js/main.36d78739.js",
+    "index.html": "/kk2000nails/index.html",
+    "main.de13e7c8.css.map": "/kk2000nails/static/css/main.de13e7c8.css.map",
+    "main.36d78739.js.map": "/kk2000nails/static/js/main.36d78739.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.de13e7c8.css",
+    "static/js/main.36d78739.js"
+  ]
+}
