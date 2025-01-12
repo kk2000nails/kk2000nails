@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/kk2000nails/static/css/main.de13e7c8.css",
-    "main.js": "/kk2000nails/static/js/main.ae0bc11a.js",
+    "main.js": "/kk2000nails/static/js/main.21518225.js",
     "index.html": "/kk2000nails/index.html",
     "main.de13e7c8.css.map": "/kk2000nails/static/css/main.de13e7c8.css.map",
-    "main.ae0bc11a.js.map": "/kk2000nails/static/js/main.ae0bc11a.js.map"
+    "main.21518225.js.map": "/kk2000nails/static/js/main.21518225.js.map"
   },
   "entrypoints": [
     "static/css/main.de13e7c8.css",
-    "static/js/main.ae0bc11a.js"
+    "static/js/main.21518225.js"
   ]
 }
