@@ -23,7 +23,7 @@ hr {
 }
 
 .tableRoot {
-    background-color: hsl(55, 10%, 20%);
+    background-color: hsl(52, 11%, 41%);
     min-width: 200px;
     min-height: 200px;
 
@@ -55,6 +55,24 @@ hr {
 .timeItem {
     margin-top: 2px;
     margin-bottom: 2px;
+    border: 2px solid #000;
+}
 
-    max-width: 100px;
+.horizontalGrid {
+    display: grid;
+    grid-auto-flow: column;
+    grid-auto-columns: 200px 200px 1fr 200px;
+    gap: 10px;
+}
+
+.controlButton {
+    background-color: hsl(52, 11%, 41%);
+    border: 2px solid #000;
+    height: 40px;
+    width: 200px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
 }
